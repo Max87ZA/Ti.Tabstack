@@ -4,10 +4,11 @@ This module can track tab's window stack and determine if root window is visible
 
 ## Example
 in your tiapp.xml add module:
+```js
 <module platform="iphone">sk.maxapp.titabstack</module>
-
+```
 and then:
-
+```js
 const TiTabstack = require('ti.tabstack');
 
 // Is root shown on a tab?
@@ -24,4 +25,5 @@ $.tabGroup.addEventListener('focus', e => {
   const info = TiTabstack.infoForSelectedTab($.tabGroup);
   Ti.API.debug(info.debugPath);
 });
+```
 
