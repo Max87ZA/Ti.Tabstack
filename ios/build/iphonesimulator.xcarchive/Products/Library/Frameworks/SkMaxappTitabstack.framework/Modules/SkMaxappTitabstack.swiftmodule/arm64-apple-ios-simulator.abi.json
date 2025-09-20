@@ -1,0 +1,45 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "SkMaxappTitabstack",
+    "printedName": "SkMaxappTitabstack",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SkMaxappTitabstack",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TitaniumKit",
+        "printedName": "TitaniumKit",
+        "declKind": "Import",
+        "moduleName": "SkMaxappTitabstack"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SkMaxappTitabstack",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "TitaniumKit",
+        "printedName": "TitaniumKit",
+        "declKind": "Import",
+        "moduleName": "SkMaxappTitabstack"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

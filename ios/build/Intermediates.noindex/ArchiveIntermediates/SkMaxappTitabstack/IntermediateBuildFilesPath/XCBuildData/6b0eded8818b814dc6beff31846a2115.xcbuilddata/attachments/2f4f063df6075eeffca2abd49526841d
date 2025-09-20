@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary.swiftconstvalues",
+    "dependencies" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary.d",
+    "diagnostics" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary.dia",
+    "emit-module-dependencies" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary-emit-module.dia",
+    "pch" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstack-primary.swiftdeps"
+  },
+  "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Classes/SkMaxappTitabstackExampleProxy.swift" : {
+    "index-unit-output-path" : "/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstackExampleProxy.o",
+    "llvm-bc" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstackExampleProxy.bc",
+    "object" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstackExampleProxy.o"
+  },
+  "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Classes/SkMaxappTitabstackModule.swift" : {
+    "index-unit-output-path" : "/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstackModule.o",
+    "llvm-bc" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstackModule.bc",
+    "object" : "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/Objects-normal/arm64/SkMaxappTitabstackModule.o"
+  }
+}

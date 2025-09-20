@@ -1,0 +1,44 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/InstallationBuildProductsLocation/Library/Frameworks/SkMaxappTitabstack.framework/SkMaxappTitabstack'
+relocations:
+  - { offset: 0xA9F9D, size: 0x8, addend: 0x0, symName: _SkMaxappTitabstackVersionString, symObjAddr: 0x0, symBinAddr: 0x8410, symSize: 0x0 }
+  - { offset: 0xA9FD2, size: 0x8, addend: 0x0, symName: _SkMaxappTitabstackVersionNumber, symObjAddr: 0x38, symBinAddr: 0x8448, symSize: 0x0 }
+  - { offset: 0xAA00F, size: 0x8, addend: 0x0, symName: '-[SkMaxappTitabstackModuleAssets moduleAsset]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8 }
+  - { offset: 0xAA02E, size: 0x8, addend: 0x0, symName: '-[SkMaxappTitabstackModuleAssets moduleAsset]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x8 }
+  - { offset: 0xAA061, size: 0x8, addend: 0x0, symName: '-[SkMaxappTitabstackModuleAssets resolveModuleAsset:]', symObjAddr: 0x8, symBinAddr: 0x4008, symSize: 0x8 }
+  - { offset: 0xAA0F5, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC5_init15withPageContextACXDSgSo11TiEvaluator_pSg_tFTo', symObjAddr: 0x0, symBinAddr: 0x4010, symSize: 0x7C }
+  - { offset: 0xAA2A3, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyCMa', symObjAddr: 0x3B8, symBinAddr: 0x43C8, symSize: 0x20 }
+  - { offset: 0xAA2B7, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x3D8, symBinAddr: 0x43E8, symSize: 0x44 }
+  - { offset: 0xAA3CE, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC5_init15withPageContextACXDSgSo11TiEvaluator_pSg_tFTo', symObjAddr: 0x0, symBinAddr: 0x4010, symSize: 0x7C }
+  - { offset: 0xAA428, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC10testNumber6unusedypypSg_tFTo', symObjAddr: 0x7C, symBinAddr: 0x408C, symSize: 0xB0 }
+  - { offset: 0xAA4B8, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC10testString6unusedSSypSg_tFTo', symObjAddr: 0x12C, symBinAddr: 0x413C, symSize: 0x7C }
+  - { offset: 0xAA51D, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC14testDictionary6unusedSDyS2SGypSg_tFTo', symObjAddr: 0x1A8, symBinAddr: 0x41B8, symSize: 0xBC }
+  - { offset: 0xAA5E1, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC9testArray6unusedSaySSGypSg_tFTo', symObjAddr: 0x264, symBinAddr: 0x4274, symSize: 0x88 }
+  - { offset: 0xAA62B, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyC8testNull6unusedypSgAF_tFTo', symObjAddr: 0x2EC, symBinAddr: 0x42FC, symSize: 0x60 }
+  - { offset: 0xAA658, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyCACycfcTo', symObjAddr: 0x34C, symBinAddr: 0x435C, symSize: 0x3C }
+  - { offset: 0xAA68D, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC12ExampleProxyCfD', symObjAddr: 0x388, symBinAddr: 0x4398, symSize: 0x30 }
+  - { offset: 0xAA95D, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleCMa', symObjAddr: 0x440, symBinAddr: 0x48A8, symSize: 0x20 }
+  - { offset: 0xAA971, size: 0x8, addend: 0x0, symName: '_$sypWOc', symObjAddr: 0x460, symBinAddr: 0x48C8, symSize: 0x3C }
+  - { offset: 0xAA990, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4findys10_HashTableV6BucketV6bucket_Sb5foundtxSHRzlFSS_Tg5', symObjAddr: 0x49C, symBinAddr: 0x4904, symSize: 0x64 }
+  - { offset: 0xAA9DE, size: 0x8, addend: 0x0, symName: '_$ss22__RawDictionaryStorageC4find_9hashValues10_HashTableV6BucketV6bucket_Sb5foundtx_SitSHRzlFSS_Tg5', symObjAddr: 0x500, symBinAddr: 0x4968, symSize: 0xB4 }
+  - { offset: 0xAAB48, size: 0x8, addend: 0x0, symName: '_$sypSgWOh', symObjAddr: 0xFC0, symBinAddr: 0x5428, symSize: 0x40 }
+  - { offset: 0xAAB5C, size: 0x8, addend: 0x0, symName: '_$sypWOb', symObjAddr: 0x1044, symBinAddr: 0x5468, symSize: 0x10 }
+  - { offset: 0xAAB70, size: 0x8, addend: 0x0, symName: '_$sSSWOh', symObjAddr: 0x1054, symBinAddr: 0x5478, symSize: 0x34 }
+  - { offset: 0xAAC1E, size: 0x8, addend: 0x0, symName: '_$sSS_yptWOc', symObjAddr: 0x1CB0, symBinAddr: 0x60D4, symSize: 0x48 }
+  - { offset: 0xAAC32, size: 0x8, addend: 0x0, symName: ___swift_project_boxed_opaque_existential_0, symObjAddr: 0x1CF8, symBinAddr: 0x611C, symSize: 0x24 }
+  - { offset: 0xAAC46, size: 0x8, addend: 0x0, symName: ___swift_destroy_boxed_opaque_existential_0, symObjAddr: 0x1D1C, symBinAddr: 0x6140, symSize: 0x20 }
+  - { offset: 0xAACC2, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_SSTt0g5Tf4g_n', symObjAddr: 0x5B4, symBinAddr: 0x4A1C, symSize: 0x108 }
+  - { offset: 0xAADFA, size: 0x8, addend: 0x0, symName: '_$sSD17dictionaryLiteralSDyxq_Gx_q_td_tcfCSS_ypTt0g5Tf4g_n', symObjAddr: 0x6BC, symBinAddr: 0x4B24, symSize: 0x104 }
+  - { offset: 0xAB18F, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC8topTitle4argsypSayypGSg_tF', symObjAddr: 0x9C, symBinAddr: 0x4504, symSize: 0x1F4 }
+  - { offset: 0xAB332, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC8topTitle4argsypSayypGSg_tFTo', symObjAddr: 0x290, symBinAddr: 0x46F8, symSize: 0x98 }
+  - { offset: 0xAB35F, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleCACycfcTo', symObjAddr: 0x3D4, symBinAddr: 0x483C, symSize: 0x3C }
+  - { offset: 0xAB394, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleCfD', symObjAddr: 0x410, symBinAddr: 0x4878, symSize: 0x30 }
+  - { offset: 0xAB584, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC21selectedNavController33_022DE0F43C1286AE1DDAEBCBA67E3174LL15inTabGroupProxySo012UINavigationG0CSgSo02TiQ0C_tFTf4nd_n', symObjAddr: 0x7C0, symBinAddr: 0x4C28, symSize: 0x32C }
+  - { offset: 0xAB79B, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC13navController33_022DE0F43C1286AE1DDAEBCBA67E3174LL11forTabProxySo012UINavigationF0CSgSo02TiO0C_tFTf4nd_n', symObjAddr: 0xAEC, symBinAddr: 0x4F54, symSize: 0x4D4 }
+  - { offset: 0xABBC0, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC6digest33_022DE0F43C1286AE1DDAEBCBA67E3174LL3navSDySSypGSo22UINavigationControllerCSg_tFTf4nd_n', symObjAddr: 0x1088, symBinAddr: 0x54AC, symSize: 0x53C }
+  - { offset: 0xABF46, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC10infoForTab4argsSDySSypGSayypGSg_tFTf4nd_n', symObjAddr: 0x15C4, symBinAddr: 0x59E8, symSize: 0x204 }
+  - { offset: 0xAC166, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC10stackCount4argsSo8NSNumberCSayypGSg_tFTf4nd_n', symObjAddr: 0x17C8, symBinAddr: 0x5BEC, symSize: 0x170 }
+  - { offset: 0xAC313, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC13isRootVisible4argsSo8NSNumberCSayypGSg_tFTf4nd_n', symObjAddr: 0x1938, symBinAddr: 0x5D5C, symSize: 0x178 }
+  - { offset: 0xAC4C5, size: 0x8, addend: 0x0, symName: '_$s18SkMaxappTitabstack0abC6ModuleC18infoForSelectedTab4argsSDySSypGSayypGSg_tFTf4nd_n', symObjAddr: 0x1AB0, symBinAddr: 0x5ED4, symSize: 0x200 }
+...

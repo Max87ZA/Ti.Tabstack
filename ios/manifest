@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: arm64 x86_64
+mac: false
+description: TiTabstack
+author: Marian Kucharcik
+license: Specify your license
+copyright: Copyright (c) 2025 by Your Company
+
+# these should not be edited
+name: TiTabstack
+moduleid: sk.maxapp.titabstack
+guid: ded56316-96db-46c4-91fa-5e7d5f23bae7
+platform: iphone
+minsdk: 13.0.0.GA

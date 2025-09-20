@@ -1,0 +1,36 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/usr/include/Darwin.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_AvailabilityInternal-2MRQXIR519B5RN4L5J2LR4T7A.pcm \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/ptrcheck-8XFF9SP3TID30SHX06REU60D6.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_DarwinFoundation1-6OKPLN9NKC8I1SA3MNGXL9H8L.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stddef-2L1F259MYE8N097ATLIMYXBC7.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stdarg-3VOSOQT78S3TDHBIG4N8PXMFH.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_DarwinFoundation2-A769C2MYRDMWJZAC0GB0LMW22.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_float-3ESYZJIVYETX50W4Y2ZOP2Z7R.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_limits-FFSWLQRV1W5D04DGUAU7I02N.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stdint-9FYPV5Y0ORLH95DO0VXD2S59X.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_DarwinFoundation3-9KLVPZENF70MZIPJB4IPR0JOY.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_inttypes-ACJ2KPW7BM51M7ZAT6MJ0T479.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stdbool-3KN9P8OKIAA6J0SS8WGPR0589.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/Darwin-9JMICW3MU13E63H7TP08GA7G.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/ptrauth-F3038OZP5UKINQR8HVQUU6C14.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/ObjectiveC-5K6L1W6NNAOV68B49UEUAQGD8.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/os_object-34C2LZ5XY4R4GSUPGWJQQYGDY.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/os_workgroup-4KWZ05KGDMH5KBOKOJO8BJ1E7.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/Dispatch-CS1WE1R64XFBIEN9RU8QDWLPO.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/CoreFoundation-BHEQ3XPEI1Q6GT7N6OQOA0SHF.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetworkDefs.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetworkErrors.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFSocketStream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHost.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetServices.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFFTPStream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPMessage.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPStream.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPAuthentication.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetDiagnostics.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFProxySupport.h

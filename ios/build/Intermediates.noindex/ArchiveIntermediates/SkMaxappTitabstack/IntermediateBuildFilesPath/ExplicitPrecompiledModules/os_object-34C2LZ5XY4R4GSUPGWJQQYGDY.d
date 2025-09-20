@@ -1,0 +1,19 @@
+moduledependenciestarget: \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/os.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/usr/include/Darwin.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/os/object.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/usr/include/DarwinFoundation1.modulemap \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_AvailabilityInternal-2MRQXIR519B5RN4L5J2LR4T7A.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/ptrcheck-8XFF9SP3TID30SHX06REU60D6.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_DarwinFoundation1-6OKPLN9NKC8I1SA3MNGXL9H8L.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stddef-2L1F259MYE8N097ATLIMYXBC7.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stdarg-3VOSOQT78S3TDHBIG4N8PXMFH.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_DarwinFoundation2-A769C2MYRDMWJZAC0GB0LMW22.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stdint-9FYPV5Y0ORLH95DO0VXD2S59X.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_DarwinFoundation3-9KLVPZENF70MZIPJB4IPR0JOY.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_inttypes-ACJ2KPW7BM51M7ZAT6MJ0T479.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_limits-FFSWLQRV1W5D04DGUAU7I02N.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/_Builtin_stdbool-3KN9P8OKIAA6J0SS8WGPR0589.pcm \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/Darwin-9JMICW3MU13E63H7TP08GA7G.pcm \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.0.sdk/usr/include/ObjectiveC.modulemap \
+  /Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/ExplicitPrecompiledModules/ObjectiveC-5K6L1W6NNAOV68B49UEUAQGD8.pcm

@@ -1,0 +1,23 @@
+{
+  "version": 0,
+  "use-external-names": false,
+  "case-sensitive": false,
+  "roots": [{
+    "type": "directory",
+    "name": "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/BuildProductsPath/Release-iphoneos/SkMaxappTitabstack.framework/Modules",
+    "contents": [{
+      "type": "file",
+      "name": "module.modulemap",
+      "external-contents": "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    "type": "directory",
+    "name": "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/BuildProductsPath/Release-iphoneos/SkMaxappTitabstack.framework/Headers",
+    "contents": [{
+      "type": "file",
+      "name": "SkMaxappTitabstack-Swift.h",
+      "external-contents": "/Users/Max87/Developer/modules/Ti.TabStack/Ti.Tabstack/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappTitabstack/IntermediateBuildFilesPath/TiTabstack.build/Release-iphoneos/SkMaxappTitabstack.build/unextended-interface-header.h",
+    }]
+  }]
+}

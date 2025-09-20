@@ -1,0 +1,10 @@
+framework module SkMaxappTitabstack {
+  umbrella header "SkMaxappTitabstack.h"
+  export *
+
+  module * { export * }
+}
+
+module SkMaxappTitabstack.__Swift {
+  exclude header "SkMaxappTitabstack-Swift.h"
+}
